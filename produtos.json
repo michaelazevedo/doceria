@@ -1,0 +1,27 @@
+[
+    {
+        "nome": "Morango do amor",
+        "preco": 12.0,
+        "quantidade": 1
+    },
+    {
+        "nome": "Cone de nutella",
+        "preco": 12.0,
+        "quantidade": 0
+    },
+    {
+        "nome": "Cone maracujá",
+        "preco": 12.0,
+        "quantidade": 0
+    },
+    {
+        "nome": "Coxinha de ninho com morango",
+        "preco": 15.0,
+        "quantidade": 3
+    },
+    {
+        "nome": "Bolo Merengue",
+        "preco": 15.0,
+        "quantidade": 6
+    }
+]

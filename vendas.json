@@ -1,0 +1,42 @@
+[
+    {
+        "Produto": "Morango do amor",
+        "Total": 24.0,
+        "Cliente": "Michael",
+        "Quantidade": 2,
+        "Data Venda": "2025-08-04 09:25:02",
+        "Status": "Pago"
+    },
+    {
+        "Produto": "Coxinha de ninho com morango",
+        "Total": 30.0,
+        "Cliente": "Loanna",
+        "Quantidade": 2,
+        "Data Venda": "2025-08-04 09:25:13",
+        "Status": "Pago"
+    },
+    {
+        "Produto": "Cone de nutella",
+        "Total": 12.0,
+        "Cliente": "Loanna",
+        "Quantidade": 1,
+        "Data Venda": "2025-08-04 09:58:11",
+        "Status": "Pago"
+    },
+    {
+        "Produto": "Cone de nutella",
+        "Total": 12.0,
+        "Cliente": "teste",
+        "Quantidade": 1,
+        "Data Venda": "2025-08-04 09:57:32",
+        "Status": "Pago"
+    },
+    {
+        "Produto": "Cone maracujá",
+        "Total": 12.0,
+        "Cliente": "Karina",
+        "Quantidade": 1,
+        "Data Venda": "2025-08-04 09:57:48",
+        "Status": "Pago"
+    }
+]
